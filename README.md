@@ -192,12 +192,17 @@ Example command:
 ## 👥 Authors <a name="authors"></a>
 
 
-👤 **Author**
+👤 **Authors**
 
 - GitHub: [@Moses-chibuike](https://github.com/Moses-chibuike/)
 - Twitter: [Ezechukwuchibu2](https://twitter.com/Ezechukwuchibu2)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/ezechukwu-chibuike/)
 
+👤 Yodit Abebe
+
+- GitHub: [yodit93](https://github.com/yodit93)
+- Twitter: [@yodtwit](https://twitter.com/yodtwit)
+- LinkedIn: [Yodit Abebe](linkedin.com/in/yodit-abebe-a97a68140)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
